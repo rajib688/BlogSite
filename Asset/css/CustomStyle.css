@@ -1,0 +1,17 @@
+﻿.text_part {
+    text-align: justify;
+}
+.Experience
+{
+    text-align: center !important;   
+}
+.facts
+{
+    margin-top: -110px !important;
+}
+.box-border
+{
+  border-style: solid;
+  border-color: green;
+  border-width: 5px;
+}
